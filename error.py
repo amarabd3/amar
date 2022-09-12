@@ -1,1 +1,3 @@
-error fixed
+
+hello 
+echo "error fixed"
